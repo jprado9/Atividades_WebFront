@@ -1,0 +1,14 @@
+.titulo2 {background-color: rgb(54, 53, 53);
+    color:white;
+    border: 2px;
+    display:flex;
+    justify-content: space-around;
+}
+.post {
+        background-color:rgb(238, 240, 241);
+        color: rgb(14, 13, 13);
+        margin: 20px;
+        padding: 20px;
+    }
+.site{margin: 50px;
+}
